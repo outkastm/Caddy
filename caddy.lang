@@ -1,181 +1,155 @@
 [de-de]
 name = "Caddy"
 auth = "Caddy"
-descript = "Der ultimative Server. Macht Ihre Websites sicherer, zuverlässiger und skalierbarer als jede andere Lösung."
+descript = "Caddy ist eine leistungsstarke, erweiterbare Plattform für die Bereitstellung Ihrer Websites, Dienste und Apps"
 release_note = "Enthält Caddy v2.11.9, aus dem Quellcode kompiliert"
-important = "import"
 
 [es-es]
 name = "Caddy"
 auth = "Caddy"
-descript = "El servidor definitivo. Hace que tus sitios sean más seguros, más fiables y más escalables que cualquier otra solución."
+descript = "Caddy es una plataforma potente y extensible para servir tus sitios, servicios y aplicaciones"
 release_note = "Incluye Caddy v2.11.9 compilado desde el código fuente"
-important = "import"
 
 [fr-fr]
 name = "Caddy"
 auth = "Caddy"
-descript = "Le serveur ultime. Rend vos sites plus sécurisés, plus fiables et plus évolutifs que toute autre solution."
+descript = "Caddy est une plateforme puissante et extensible pour héberger vos sites, services et applications"
 release_note = "Intègre Caddy v2.11.9 compilé depuis les sources"
-important = "import"
 
 [hu-hu]
 name = "Caddy"
 auth = "Caddy"
-descript = "A tökéletes szerver. Biztonságosabbá, megbízhatóbbá és skálázhatóbbá teszi webhelyeit, mint bármely más megoldás."
+descript = "A Caddy egy hatékony, bővíthető platform webhelyei, szolgáltatásai és alkalmazásai kiszolgálására"
 release_note = "Tartalmazza a forráskódból csomagolt Caddy v2.11.9 verziót"
-important = "import"
 
 [it-it]
 name = "Caddy"
 auth = "Caddy"
-descript = "Il server definitivo. Rende i tuoi siti più sicuri, più affidabili e più scalabili di qualsiasi altra soluzione."
+descript = "Caddy è una piattaforma potente ed estensibile per servire i tuoi siti, servizi e app"
 release_note = "Include Caddy v2.11.9 compilato dai sorgenti"
-important = "import"
 
 [ja-jp]
 name = "Caddy"
 auth = "Caddy"
-descript = "究極のサーバー。他のどのソリューションよりも安全で信頼性が高く、スケーラブルなサイトを構築します。"
+descript = "Caddyは、サイト、サービス、アプリを提供するための強力で拡張性の高いプラットフォームです"
 release_note = "ソースからパッケージ化された Caddy v2.11.9 を同梱"
-important = "import"
 
 [ko-kr]
 name = "Caddy"
 auth = "Caddy"
-descript = "궁극의 서버. 다른 어떤 솔루션보다 사이트를 더 안전하고 안정적이며 확장 가능하게 만듭니다."
+descript = "Caddy는 사이트, 서비스 및 앱을 제공하는 강력하고 확장 가능한 플랫폼입니다"
 release_note = "소스에서 패키징된 Caddy v2.11.9 번들 포함"
-important = "import"
 
 [pl-pl]
 name = "Caddy"
 auth = "Caddy"
-descript = "Najlepszy serwer. Sprawia, że Twoje witryny są bezpieczniejsze, bardziej niezawodne i bardziej skalowalne niż jakiekolwiek inne rozwiązanie."
+descript = "Caddy to potężna, rozszerzalna platforma do obsługi Twoich witryn, usług i aplikacji"
 release_note = "Zawiera Caddy v2.11.9 skompilowany ze źródeł"
-important = "import"
 
 [pt-pt]
 name = "Caddy"
 auth = "Caddy"
-descript = "O servidor definitivo. Torna os seus sites mais seguros, mais fiáveis e mais escaláveis do que qualquer outra solução."
+descript = "O Caddy é uma plataforma poderosa e extensível para servir os seus sites, serviços e aplicações"
 release_note = "Inclui o Caddy v2.11.9 empacotado a partir do código-fonte"
-important = "import"
 
 [ru-ru]
 name = "Caddy"
 auth = "Caddy"
-descript = "Идеальный сервер. Делает ваши сайты более безопасными, надежными и масштабируемыми, чем любое другое решение."
+descript = "Caddy — это мощная, расширяемая платформа для обслуживания ваших сайтов, сервисов и приложений"
 release_note = "Включает Caddy v2.11.9, собранный из исходного кода"
-important = "import"
 
 [tr-tr]
 name = "Caddy"
 auth = "Caddy"
-descript = "Nihai Sunucu. Sitelerinizi diğer tüm çözümlerden daha güvenli, daha güvenilir ve daha ölçeklenebilir hale getirir."
+descript = "Caddy; sitelerinize, hizmetlerinize ve uygulamalarınıza hizmet vermek için güçlü ve genişletilebilir bir platformdur"
 release_note = "Kaynaktan paketlenmiş Caddy v2.11.9 sürümünü içerir"
-important = "import"
 
 [zh-cn]
 name = "Caddy"
 auth = "Caddy"
-descript = "终极服务器。使您的网站比任何其他解决方案都更安全、更可靠、更具可扩展性。"
+descript = "Caddy 是一个强大且可扩展的平台，用于为您的网站、服务和应用程序提供服务"
 release_note = "内置从源码打包的 Caddy v2.11.9"
-important = "import"
 
 [zh-hk]
 name = "Caddy"
 auth = "Caddy"
-descript = "終極伺服器。使您的網站比任何其他解決方案都更安全、更可靠、更具可擴展性。"
+descript = "Caddy 是一個強大且可擴展的平台，用於為您的網站、服務和應用程式提供服務"
 release_note = "內置從源碼打包的 Caddy v2.11.9"
-important = "import"
 
 [cs-cz]
 name = "Caddy"
 auth = "Caddy"
-descript = "Dokonalý server. Dělá vaše weby bezpečnějšími, spolehlivějšími a škálovatelnějšími než jakékoli jiné řešení."
+descript = "Caddy je výkonná, rozšiřitelná platforma pro poskytování vašich webů, služeb a aplikací"
 release_note = "Obsahuje Caddy v2.11.9 zabalený ze zdrojového kódu"
-important = "import"
 
 [da-dk]
 name = "Caddy"
 auth = "Caddy"
-descript = "Den ultimative server. Gør dine websteder mere sikre, mere pålidelige og mere skalerbare end nogen anden løsning."
+descript = "Caddy er en kraftfuld, udvidelig platform til at betjene dine websteder, tjenester og apps"
 release_note = "Indeholder Caddy v2.11.9 pakket fra kildekoden"
-important = "import"
 
 [nl-nl]
 name = "Caddy"
 auth = "Caddy"
-descript = "De ultieme server. Maakt uw websites veiliger, betrouwbaarder en schaalbaarder dan welke andere oplossing dan ook."
+descript = "Caddy is een krachtig, uitbreidbaar platform om uw websites, services en apps te hosten"
 release_note = "Bevat Caddy v2.11.9, gecompileerd vanuit de broncode"
-important = "import"
 
 [nb-no]
 name = "Caddy"
 auth = "Caddy"
-descript = "Den ultimate serveren. Gjør nettstedene dine sikrere, mer pålitelige og mer skalerbare enn noen annen løsning."
+descript = "Caddy er en kraftig, utvidbar plattform for å betjene nettstedene, tjenestene og appene dine"
 release_note = "Inkluderer Caddy v2.11.9 pakket fra kildekoden"
-important = "import"
 
 [sv-se]
 name = "Caddy"
 auth = "Caddy"
-descript = "Den ultimata servern. Gör dina webbplatser säkrare, mer pålitliga och mer skalbara än någon annan lösning."
+descript = "Caddy är en kraftfull, utbyggbar plattform för att leverera dina webbplatser, tjänster och appar"
 release_note = "Innehåller Caddy v2.11.9 paketerad från källkod"
-important = "import"
 
 [el-gr]
 name = "Caddy"
 auth = "Caddy"
-descript = "Ο απόλυτος διακομιστής. Κάνει τους ιστότοπούς σας πιο ασφαλείς, πιο αξιόπιστους και πιο επεκτάσιμους από οποιαδήποτε άλλη λύση."
+descript = "Το Caddy είναι μια ισχυρή, επεκτάσιμη πλατφόρμα για την εξυπηρέτηση των ιστότοπων, των υπηρεσιών και των εφαρμογών σας"
 release_note = "Περιλαμβάνει το Caddy v2.11.9 πακεταρισμένο από τον πηγαίο κώδικα"
-important = "import"
 
 [ro-ro]
 name = "Caddy"
 auth = "Caddy"
-descript = "Serverul suprem. Face site-urile dvs. mai sigure, mai fiabile și mai scalabile decât orice altă soluție."
+descript = "Caddy este o platformă puternică și extensibilă pentru a vă deservi site-urile, serviciile și aplicațiile"
 release_note = "Include Caddy v2.11.9 împachetat din codul sursă"
-important = "import"
 
 [th-th]
 name = "Caddy"
 auth = "Caddy"
-descript = "สุดยอดเซิร์ฟเวอร์ ทำให้เว็บไซต์ของคุณปลอดภัย เชื่อถือได้ และปรับขนาดได้ดีกว่าโซลูชันอื่นใด"
+descript = "Caddy เป็นแพลตฟอร์มที่ทรงพลังและขยายขีดความสามารถได้ สำหรับให้บริการเว็บไซต์ บริการ และแอปของคุณ"
 release_note = "รวม Caddy v2.11.9 ที่แพ็กจากซอร์สโค้ด"
-important = "import"
 
 [vi-vn]
 name = "Caddy"
 auth = "Caddy"
-descript = "Máy chủ tối ưu. Giúp trang web của bạn bảo mật hơn, đáng tin cậy hơn và dễ mở rộng hơn bất kỳ giải pháp nào khác."
+descript = "Caddy là một nền tảng mạnh mẽ, có khả năng mở rộng để phục vụ các trang web, dịch vụ và ứng dụng của bạn"
 release_note = "Đóng gói kèm Caddy v2.11.9 được biên dịch từ mã nguồn"
-important = "import"
 
 [id-id]
 name = "Caddy"
 auth = "Caddy"
-descript = "Server Terbaik. Menjadikan situs Anda lebih aman, lebih andal, dan lebih skalabel dibandingkan solusi lainnya."
+descript = "Caddy adalah platform yang tangguh dan dapat diperluas untuk melayani situs, layanan, dan aplikasi Anda"
 release_note = "Menyertakan Caddy v2.11.9 yang dikemas dari kode sumber"
-important = "import"
 
 [ar-sa]
 name = "Caddy"
 auth = "Caddy"
-descript = "الخادم الأمثل. يجعل مواقعك أكثر أماناً وموثوقية وقابلية للتوسع من أي حل آخر."
+descript = "Caddy هو منصة قوية وقابلة للتوسيع لتشغيل مواقعك وخدماتك وتطبيقاتك"
 release_note = "يتضمن حزمة Caddy v2.11.9 المجمعة من المصدر"
-important = "import"
 
 [he-il]
 name = "Caddy"
 auth = "Caddy"
-descript = "השרת האולטימטיבי. הופך את האתרים שלך למאובטחים, אמינים וניתנים להרחבה יותר מכל פתרון אחר."
+descript = "Caddy היא פלטפורמה עוצמתית וניתנת להרחבה להפעלת האתרים, השירותים והאפליקציות שלך"
 release_note = "כולל את Caddy v2.11.9 ארוז מקוד המקור"
-important = "import"
 
 [en-us]
 name = "Caddy"
 auth = "Caddy"
-descript = "The Ultimate Server. Makes your sites more secure, more reliable, and more scalable than any other solution."
+descript = "Caddy is a powerful, extensible platform to serve your sites, services, and apps"
 release_note = "Bundles caddy v2.11.9 packed from source"
-important = "import"
